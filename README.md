@@ -25,3 +25,4 @@ This 7:th roadshow event it’s time to show you how to migrate the artifacts yo
 - TFS to Git tool https://github.com/git-tfs/git-tfs
 - Git filter repo: https://github.com/newren/git-filter-repo
 - VSS to Git: https://github.com/trevorr/vss2git
+- VSS to TFS upgrade tool: https://marketplace.visualstudio.com/items?itemName=EdH-MSFT.VisualSourceSafeUpgradeToolforTeamFoundationServer
