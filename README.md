@@ -1,5 +1,4 @@
-# Solidify-GitHub-Roadshow-7-migrating-from-Azure-DevOps-to-GitHub
-Demo repo for the Solidify RoadShow
+# Solidify GitHub Roadshow 7, migrating from Azure DevOps to GitHub
 
 ## Details ##
 Many of you have probably used Azure DevOps/TFS for years and have invested a lot of effort and time in it, maybe you are starting to use GitHub for some part of your development.
