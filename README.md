@@ -21,3 +21,4 @@ This 7:th roadshow event it’s time to show you how to migrate the artifacts yo
 - Solidify homepage: https://www.solidify.se/events
 - Solidify on LinkedIn: https://www.linkedin.com/company/solidify-dev
 - Recordings: https://www.youtube.com/channel/UChHumq_I3ne3nnoQ0B_KNgQ
+- Demo repo in Azure DevOps: https://dev.azure.com/solidifydemo/Azure%20DevOps-GitHub%20Demo
