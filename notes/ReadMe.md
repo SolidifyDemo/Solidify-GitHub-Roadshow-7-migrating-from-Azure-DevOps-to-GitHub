@@ -14,8 +14,10 @@ With all alternatives below consider taking just the main/master branch with you
   * Easy and fast with history
   * Code is not cleaned up
 * Migrate with history
+  * Demo project in TFVC with packages folder: https://dev.azure.com/solidifydemo/Azure%20DevOps-GitHub%20Demo
+  * Create repo in GitHub
   * Use TFS to Git tool https://github.com/git-tfs/git-tfs
-  * Add a .gitignore: https://gitignore.io/
+  * git tfs clone https://dev.azure.com/solidifydemo "$/Azure DevOps-GitHub Demo/Main"
   * Use Git filter repo to se whats there and clean up code: https://github.com/newren/git-filter-repo
   * Push to Git
 
