@@ -18,8 +18,17 @@ With all alternatives below consider taking just the main/master branch with you
   * Create repo in GitHub
   * Use TFS to Git tool https://github.com/git-tfs/git-tfs
   * git tfs clone https://dev.azure.com/solidifydemo "$/Azure DevOps-GitHub Demo/Main"
+  * Add Gitignore: https://gitignore.io/
+  * git add * 
+  * git commit -m "Added gitignore"
   * Use Git filter repo to se whats there and clean up code: https://github.com/newren/git-filter-repo
+  * git filter-repo –-analyze
+  * Check .git\filter-repo\analysis folder path-all-sizes.txt
+  * git filter-repo --path "packages" --invert-paths
+  * git filter-repo –-analyze
   * Push to Git
+  * git remote add origin https://github.com/SolidifyDemo/Demo-TFVC-Import.git
+  * Git push --all origin
 
 ##  Source Safe to GitHub 
 * Tip migration = get latest only
@@ -27,7 +36,7 @@ With all alternatives below consider taking just the main/master branch with you
   * Add a .gitignore to get rid of binaries and other unwanted files: https://gitignore.io/
   * Push to GitHub
 * Microsoft VSS to TFVC tool
-  * VSS to TFS uågrade tool https://marketplace.visualstudio.com/items?itemName=EdH-MSFT.VisualSourceSafeUpgradeToolforTeamFoundationServer
+  * VSS to TFS ugrade tool https://marketplace.visualstudio.com/items?itemName=EdH-MSFT.VisualSourceSafeUpgradeToolforTeamFoundationServer
   * When in TFVC as above
 * VSS to Git tool
   * VSS to Git: https://github.com/trevorr/vss2git
