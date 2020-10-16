@@ -15,7 +15,7 @@ With all alternatives below consider taking just the main/master branch with you
   * Code is not cleaned up
 * Migrate with history
   * Demo project in TFVC with packages folder: https://dev.azure.com/solidifydemo/Azure%20DevOps-GitHub%20Demo
-  * Create repo in GitHub
+  * Created repo in GitHub https://github.com/SolidifyDemo/TFVC.
   * Use TFS to Git tool https://github.com/git-tfs/git-tfs
   * git tfs clone https://dev.azure.com/solidifydemo "$/Azure DevOps-GitHub Demo/Main"
   * Add Gitignore: https://gitignore.io/
@@ -27,7 +27,7 @@ With all alternatives below consider taking just the main/master branch with you
   * git filter-repo --path "packages" --invert-paths
   * git filter-repo –-analyze
   * Push to Git
-  * git remote add origin https://github.com/SolidifyDemo/Demo-TFVC-Import.git
+  * git remote add origin https://github.com/SolidifyDemo/TFVC.git
   * Git push --all origin
 
 ##  Source Safe to GitHub 
