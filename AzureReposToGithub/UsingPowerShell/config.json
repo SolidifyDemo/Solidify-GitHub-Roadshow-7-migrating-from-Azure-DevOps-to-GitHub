@@ -1,0 +1,20 @@
+{
+  "AzDoPAT": "",
+  "GHPAT": "",
+  "ReposToMigrate": [
+    {
+      "AzDoOrg": "AzDoOrg",
+      "AzDoPrj": "AzDoPrj",
+      "AzDoRepo": "AzDoRepo",
+      "GHUser": "GHUser",
+      "GHRepo": "GHRepo"
+    },
+    {
+        "AzDoOrg": "AzDoOrg",
+        "AzDoPrj": "AzDoPrj",
+        "AzDoRepo": "AzDoRepo",
+        "GHUser": "GHUser",
+        "GHRepo": "GHRepo"
+      }
+  ]
+}
